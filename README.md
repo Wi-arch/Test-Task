@@ -30,7 +30,7 @@
 
 #### Validation/Result
 
-* The client is not present in the database returns `NOT_FOUND`
+* The book is not present in the database returns `NOT_FOUND`
 * If the client is present the returns `OK` with
 
 ```json
